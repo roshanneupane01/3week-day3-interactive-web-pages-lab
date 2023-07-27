@@ -1,0 +1,3 @@
+Week 3 Day 3 Interactive Web Pages Lab
+
+The Movie List App is a JavaScript-based web application that allows you to create a list of movies. You can add movies to the list by entering their names and pressing the "Add" button. To remove a movie, simply click the delete button next to its name. You can also mark movies as watched by clicking on their titles, which will cross them out. Clicking a watched movie title will unmark it. The app provides feedback messages for these actions. Enjoy managing your movie collection with this interactive web app!
